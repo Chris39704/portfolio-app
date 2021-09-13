@@ -21,6 +21,8 @@ Chris Farabaugh's Development Portfolio
 
 ### - TODO
 
+- Finish Auth and Deploy initial hosted page
+
 <br />
 
 ## NOTE:
