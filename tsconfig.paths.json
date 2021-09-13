@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@pages": ["pages"],
+      "@pages/*": ["pages/*"],
+      "@components": ["components"],
+      "@components/*": ["components/*"],
+      "@fb": ["fb"],
+      "@fb/*": ["fb/*"],
+      "@utils": ["utils"],
+      "@utils/*": ["utils/*"],
+      "@shared": ["shared"],
+      "@shared/*": ["shared/*"],
+      "@state": ["state"],
+      "@state/*": ["state/*"],
+      "@types": ["types"],
+      "@types/*": ["types/*"]
+    }
+  }
+}
