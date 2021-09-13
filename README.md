@@ -27,12 +27,7 @@ Chris Farabaugh's Development Portfolio
 
 ## NOTE:
 
-Temporarily -
-firebaseui => esm.js needs to be updated to use compat libs to work with newer versions of firebase
-
-```
-import firebase from 'firebase/compat/app';import 'firebase/compat/auth';
-```
+Temporarily using local install of react-firebaseui using updated firebase sdk with breaking changes to module exports in newer version >9
 
 ## Maintainers
 
